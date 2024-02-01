@@ -1,0 +1,12 @@
+.fimages{
+    display: flexbox;
+}
+
+.fimages img{
+    width: 48.5%;
+    height: 70%;
+    /* border: 2px solid red; */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    padding: 10px;
+    margin: 5px;
+}
