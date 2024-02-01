@@ -1,2 +1,2 @@
-# Community-service-project
-# https://lakshmankosuri.github.io/Community-service-project/
+# Community-Service-Project
+# https://lakshmankosuri.github.io/Community-Service-Project/
